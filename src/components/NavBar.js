@@ -49,8 +49,8 @@ function NavBar() {
       color="rgba(0, 0, 0, 0.87)"
       className={classes.bar}
     >
-      <img src={logo} className={classes.logo} />
-      <img src={logoMobile} className={classes.logoMobile} />
+      <img alt="" src={logo} className={classes.logo} />
+      <img alt="" src={logoMobile} className={classes.logoMobile} />
       <Typography variant="h6" className={classes.menuItem}>
         About
       </Typography>
